@@ -130,3 +130,5 @@ select ... where title like '%hello%';
 
 ## six聚合函数部分
 > 聚合函数是对数据进行提取并进行一些处理。比如售出商品的平均价格。聚合函数是通过 aggregate 方法来实现的
+
+
